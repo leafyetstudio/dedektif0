@@ -22,7 +22,7 @@ print(''' \033[94m
 |         \	       \__,_|\___|\__\___|\___|\__|_| \_/ \___| \___/ 	               
 `-._____.-'
 
-\033[95m    		Yapımcılar:Sexettin&Saepsh 
+\033[95m    		Yapımcılar:Sexettin&Furkan Kerem
 
 \033[91m
 1-)Ip araçları
